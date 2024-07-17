@@ -3,10 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/@batchelli" target="blank">
+    <a href="https://twitter.com/@batchielli" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@batchelli" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/bacthielli" target="blank">
+    <a href="https://instagram.com/batchielli" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bacthielli" height="30" width="40" />
     </a>
 </p>
